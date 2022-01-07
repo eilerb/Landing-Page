@@ -47,6 +47,11 @@ a {
   color: #f9faf8;
 }
 
+.secondary-text {
+  font-size: 18px;
+  color: #e5e7eb;
+}
+
 .hero-button {
   background: #3882f6;
   color: white;
