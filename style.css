@@ -12,6 +12,7 @@ ul {
 
 li {
   float: left;
+  padding: 10px;
 }
 a {
   text-decoration: none;
