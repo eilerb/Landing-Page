@@ -6,6 +6,7 @@ body {
 ul {
   list-style: none;
   padding: 0;
+  margin: 0;
 }
 
 li {
@@ -21,6 +22,7 @@ a {
   display: flex;
   background: #1f2937;
   align-items: center;
+  height: 72px;
 }
 
 .logo {
