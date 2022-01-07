@@ -39,6 +39,7 @@ a {
 .hero {
   display: flex;
   background: #1f2937;
+  padding: 100px 250px;
 }
 
 .main-text {
