@@ -43,4 +43,6 @@ a {
 .hero-button {
   background: #3882f6;
   color: white;
+  border: none;
+  border-radius: 6px;
 }
