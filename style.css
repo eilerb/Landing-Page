@@ -35,3 +35,7 @@ a {
   font-weight: 900;
   margin-right: auto;
 }
+
+.hero {
+  display: flex;
+}
