@@ -1,5 +1,7 @@
 ul {
   list-style: none;
+  
+  padding: 0;
 }
 
 li {
@@ -7,8 +9,10 @@ li {
 }
 a {
   text-decoration: none;
+  color: #e5e7eb;
 }
 
 .header {
   display: flex;
+  background: #1f2937;
 }
