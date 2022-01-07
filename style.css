@@ -20,6 +20,7 @@ a {
 .header {
   display: flex;
   background: #1f2937;
+  align-items: center;
 }
 
 .logo {
