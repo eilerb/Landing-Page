@@ -38,6 +38,7 @@ a {
 
 .hero {
   display: flex;
+  background: #1f2937;
 }
 
 .hero-button {
