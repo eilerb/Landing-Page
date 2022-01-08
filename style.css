@@ -93,7 +93,7 @@ img {
 
 .container {
   display: flex;
-  gap: 60px;
+  gap: 50px;
 }
 
 .image-and-subtext {
