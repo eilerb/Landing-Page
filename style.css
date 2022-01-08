@@ -98,7 +98,8 @@ img {
 .image-and-subtext {
   display: flex;
   flex-direction: column;
-  width: 200px;
+  align-items: center;
+  width: 180px;
 }
 
 .subtext {
