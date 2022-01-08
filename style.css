@@ -21,6 +21,10 @@ a {
   font-size: 18px;
 }
 
+img {
+  width: 800px;
+}
+
 .header {
   display: flex;
   background: #1f2937;
