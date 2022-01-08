@@ -43,7 +43,7 @@ img {
 .hero {
   display: flex;
   background: #1f2937;
-  padding: 100px 250px;
+  padding: 80px 250px;
   align-items: center;
   gap: 150px;
 }
