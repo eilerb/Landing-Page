@@ -89,3 +89,7 @@ img {
   font-weight: 900;
   color: #1f2937;
 }
+
+.container {
+  display: flex;
+}
