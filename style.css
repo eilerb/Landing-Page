@@ -143,6 +143,8 @@ img {
 
 .cta-section {
   display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .cta-container {
