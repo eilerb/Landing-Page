@@ -99,3 +99,7 @@ img {
   flex-direction: column;
   width: 200px;
 }
+
+.subtext {
+  text-align: center;
+}
