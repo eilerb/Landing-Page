@@ -140,3 +140,11 @@ img {
   color: #1f2937;
   margin-left: 530px;
 }
+
+.cta-section {
+  display: flex;
+}
+
+.cta-container {
+  display: flex;
+}
