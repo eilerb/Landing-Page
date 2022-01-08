@@ -69,7 +69,7 @@ img {
   color: #e5e7eb;
 }
 
-.hero-button {
+.hero-button, .cta-button {
   background: #3882f6;
   color: white;
   border: none;
@@ -153,4 +153,9 @@ img {
 
 .cta-main-text {
   color: white;
+}
+
+.cta-button {
+  color: white;
+  border: 2px solid white;
 }
