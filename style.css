@@ -145,13 +145,14 @@ img {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 400px;
+  height: 340px;
 }
 
 .cta-container {
   display: flex;
   background: #3882f6;
   align-items: center;
+  height: 140px;
 }
 
 .cta-main-text {
