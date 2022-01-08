@@ -93,3 +93,8 @@ img {
 .container {
   display: flex;
 }
+
+.image-and-subtext {
+  display: flex;
+  flex-direction: column;
+}
