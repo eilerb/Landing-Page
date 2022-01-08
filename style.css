@@ -103,3 +103,7 @@ img {
 .subtext {
   text-align: center;
 }
+
+.info-image {
+  max-width: 100%;
+}
