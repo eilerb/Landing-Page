@@ -155,6 +155,7 @@ img {
   justify-content: center;
   height: 140px;
   width: 1200px;
+  border-radius: 8px;
 }
 
 .text-container {
