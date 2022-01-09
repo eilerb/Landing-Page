@@ -152,7 +152,9 @@ img {
   display: flex;
   background: #3882f6;
   align-items: center;
+  justify-content: center;
   height: 140px;
+  width: 1200px;
 }
 
 .text-container {
