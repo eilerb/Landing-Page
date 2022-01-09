@@ -123,6 +123,7 @@ img {
   justify-content: center;
   height: 440px;
   background: #e5e7eb;
+  gap: 20px;
 }
 
 .quote {
