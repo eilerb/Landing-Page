@@ -172,3 +172,12 @@ img {
   color: white;
   border: 2px solid white;
 }
+
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #1f2937;
+  color: #f9faf8;
+  height: 72px;
+}
